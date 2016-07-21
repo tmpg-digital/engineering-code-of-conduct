@@ -1,6 +1,6 @@
 For some context on why we think having a code of conduct for our organization is important and the process surrounding its development, check out [this introduction](./introduction.md).
 
-# DigitalOcean's Engineering Code of Conduct
+# TMPG's Engineering Code of Conduct
 
 ## Why have a Code of Conduct?
 This Code of Conduct is designed to help all of us build a pleasant, productive, and fearless community. The purpose of the Code of Conduct is not to burden the team with a bunch of needless rules, or to give us a punishment mechanism for people "being bad," or even to correct things that have been wrong in the past. We are striving to make our engineering team a great group of people to work with, especially for those people who have faced more adverse working environments in the past.
@@ -24,7 +24,7 @@ Be respectful of other people; their time, their location, and other considerati
 
 Keep your calendar up-to-date, be on time to meetings, decline meetings you don’t plan to attend.
 
-Denote [working hours](https://support.google.com/calendar/answer/83117?hl=en#working_hours) in Calendar if you want people to constrain your meetings to them.
+Denote working hours in Calendar if you want people to constrain your meetings to them.
 
 Resist the temptation to have local-only meetings when remote teammates should be involved - take them to Slack, Hangouts, etc. as appropriate.
 
